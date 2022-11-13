@@ -1,0 +1,49 @@
+
+header{
+    background-color: rgb(45, 126, 202);
+    text-align: center;
+    border-radius: 20px;
+}
+
+body{
+    background-color: aqua;
+    text-align: center;
+    font-size: 25pt
+
+}
+section{
+    background: center;
+}
+#button{   
+    font-size: 20pt;
+  
+}
+#res{
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(45, 126, 202);
+    font-style: italic;
+    border-radius:20px
+   
+}
+#txti{
+    font-size: 20pt;
+    border-radius: 5px;
+    text-align: center;
+}
+#txtf{
+    font-size: 20pt;
+    border-radius: 5px;
+    text-align: center;
+}
+#txtp{
+    font-size: 20pt;
+    border-radius: 5px;
+    text-align: center;
+}
+#button{
+    font-size: 20pt;
+    font: white;
+    background-color: grey;
+    border-radius: 10px;
+   }    
